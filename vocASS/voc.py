@@ -5,6 +5,7 @@ import speech_recognition as sr
 r = sr.Recognizer()
 
 # Use the microphone as a source of input
+#C:\Users\halis\AppData\Local\Programs\Python\Python311\redwindows\vocASS
 with sr.Microphone() as source:
     print("What is the name of the file?")
     audio = r.listen(source)

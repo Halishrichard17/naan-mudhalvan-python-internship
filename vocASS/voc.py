@@ -5,7 +5,6 @@ import speech_recognition as sr
 r = sr.Recognizer()
 
 # Use the microphone as a source of input
-#C:\Users\halis\AppData\Local\Programs\Python\Python311\redwindows\vocASS
 with sr.Microphone() as source:
     print("What is the name of the file?")
     audio = r.listen(source)
@@ -28,9 +27,12 @@ try:
     csv_file =open(file_name + ".csv")  
     reader = csv.DictReader(csv_file)
 
-        # Print the contents of the specified column
+        # Print the contents of the specified column\
+    i=0
     for row in reader:
-        print(row[column_name])
+        if(i<=10):
+            print(row[column_name])
+        i+=1
 
 except sr.UnknownValueError:
     print("Could not understand audio")

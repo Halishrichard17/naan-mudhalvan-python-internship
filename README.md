@@ -1,19 +1,19 @@
-<b>#NMassignment
-   #naanmudhalvan 
-   #tnsdc 
-   #projecthackathon 
-   #python 
-   #pantechelearning</b>
-   @pantech eLearning
-    Name:HALISH RICHARD J
-    College: Parisutham Institute of Technology and Science
-    NM Code:au821321104010
-    Project Code:
+<b>#NMassignment <br/>
+   #naanmudhalvan<br/> 
+   #tnsdc <br/>
+   #projecthackathon <br/>
+   #python <br/>
+   #pantechelearning</b><br/>
+   @pantech eLearning<br/>
+    Name:HALISH RICHARD J<br/>
+    College: Parisutham Institute of Technology and Science<br/>
+    NM Code:au821321104010<br/>
+    Project Code:<br/>
   
-# NM1
-
-#assigement-1 execution process
-go to cmd install SpeechRecognition and   pyaudio
-     :pip install SpeechRecognition
-     :pip install pyaudio
+# NM1<br/><br/>
+<br/>
+#assigement-1 execution process<br/>
+go to cmd install SpeechRecognition and   pyaudio<br/>
+     :pip install SpeechRecognition<br/>
+     :pip install pyaudio<br/>
  

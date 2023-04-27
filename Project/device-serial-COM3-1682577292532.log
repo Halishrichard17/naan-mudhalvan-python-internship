@@ -1,0 +1,2802 @@
+
+CMD>reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 7
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 7
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 7
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 0 (4)
+reconnect
+disconnect from ssid PITS-CPL-WIFI, reason 4
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 0 (2)
+reconnect
+disconnect from ssid PITS-CPL-WIFI, reason 2
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 2
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 2
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 2
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 2
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 2
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 2
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 2
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 2
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+
+CMD>state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+no PITS-CPL-WIFI found, reconnect after 1s
+disconnect from ssid PITS-CPL-WIFI, reason 201
+reconnect
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+no PITS-CPL-WIFI found, reconnect after 1s
+disconnect from ssid PITS-CPL-WIFI, reason 201
+reconnect
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+no PITS-CPL-WIFI found, reconnect after 1s
+disconnect from ssid PITS-CPL-WIFI, reason 201
+reconnect
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+add 1
+aid 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+rm 1
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+add 1
+aid 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+rm 1
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+add 1
+aid 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+rm 1
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+add 1
+aid 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+rm 1
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+add 1
+aid 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+rm 1
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+add 1
+aid 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+rm 1
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+add 1
+aid 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+rm 1
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+add 1
+aid 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+rm 1
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 5
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+add 1
+aid 1
+station: 0e:61:00:a7:e8:b7 join, AID = 1
+station: 0e:61:00:a7:e8:b7 join, AID = 1
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+station: 0e:61:00:a7:e8:b7 leave, AID = 1
+rm 1
+station: 0e:61:00:a7:e8:b7 leave, AID = 1
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+add 1
+aid 1
+station: 0e:61:00:a7:e8:b7 join, AID = 1
+station: 0e:61:00:a7:e8:b7 join, AID = 1
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+no PITS-CPL-WIFI found, reconnect after 1s
+disconnect from ssid PITS-CPL-WIFI, reason 201
+reconnect
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+station: 0e:61:00:a7:e8:b7 leave, AID = 1
+rm 1
+station: 0e:61:00:a7:e8:b7 leave, AID = 1
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+add 1
+aid 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+rm 1
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+add 1
+aid 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+rm 1
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+add 1
+aid 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+rm 1
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+add 1
+aid 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+rm 1
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 13
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+add 1
+aid 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+rm 1
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+add 1
+aid 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+rm 1
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+add 1
+aid 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+rm 1
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+reconnect
+state: 2 -> 0 (0)
+add 1
+aid 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 10
+cnt 
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+rm 1
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 13
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 13
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 13
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 13
+cnt 
+add 1
+aid 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+rm 1
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 13
+cnt 
+add 1
+aid 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+rm 1
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+add 1
+aid 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 13
+cnt 
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+rm 1
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+add 1
+aid 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+station: e8:4e:06:2f:b4:b6 join, AID = 1
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 13
+cnt 
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+rm 1
+station: e8:4e:06:2f:b4:b6 leave, AID = 1
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 13
+cnt 
+add 1
+aid 1
+station: 0e:61:00:a7:e8:b7 join, AID = 1
+station: 0e:61:00:a7:e8:b7 join, AID = 1
+station: 0e:61:00:a7:e8:b7 leave, AID = 1
+rm 1
+station: 0e:61:00:a7:e8:b7 leave, AID = 1
+add 1
+aid 1
+station: 0e:61:00:a7:e8:b7 join, AID = 1
+station: 0e:61:00:a7:e8:b7 join, AID = 1
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 13
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+no PITS-CPL-WIFI found, reconnect after 1s
+disconnect from ssid PITS-CPL-WIFI, reason 201
+reconnect
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 13
+cnt 
+Saving configuration
+Restarting ... 
+state: 5 -> 0 (0)
+rm 0
+vPortFree 515 line assert fail
+del if0
+station: 0e:61:00:a7:e8:b7 leave, AID = 1
+rm 1
+vPortFree 515 line assert fail
+bcn 0
+del if1
+usl
+
+ ets Jan  8 2013,rst cause:2, boot mode:(3,7)
+
+load 0x40100000, len 1328, room 16 
+tail 0
+chksum 0x12
+load 0x3ffe8000, len 604, room 8 
+tail 4
+chksum 0x34
+csum 0x34
+
+rBoot v1.4.2 - richardaburton@gmail.com
+Flash Size:   4 Mbit
+Flash Mode:   QIO
+Flash Speed:  40 MHz
+
+Booting rom 0.
+��2�n천p��N|�d��d B��|r�l�N��N� l ��r�l�$���H�H���Repeater V2.2.16 starting
+
+running rom 0
+Config found and loaded (3216 Bytes)
+Starting Console TCP Server on port 7777
+Starting Web Config Server on port 80
+mode : sta(e8:db:84:98:6b:83) + softAP(ea:db:84:98:6b:83)
+add if0
+add if1
+dhcp server start:(ip:192.168.4.1,mask:255.255.255.0,gw:192.168.4.1)
+bcn 100
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 13
+cnt 
+add 1
+aid 1
+station: 0e:61:00:a7:e8:b7 join, AID = 1
+station: 0e:61:00:a7:e8:b7 join, AID = 1
+Saving configuration
+Restarting ... 
+state: 5 -> 0 (0)
+rm 0
+vPortFree 515 line assert fail
+del if0
+station: 0e:61:00:a7:e8:b7 leave, AID = 1
+rm 1
+vPortFree 515 line assert fail
+bcn 0
+del if1
+usl
+
+ ets Jan  8 2013,rst cause:2, boot mode:(3,7)
+
+load 0x40100000, len 1328, room 16 
+tail 0
+chksum 0x12
+load 0x3ffe8000, len 604, room 8 
+tail 4
+chksum 0x34
+csum 0x34
+
+rBoot v1.4.2 - richardaburton@gmail.com
+Flash Size:   4 Mbit
+Flash Mode:   QIO
+Flash Speed:  40 MHz
+
+Booting rom 0.
+����n�s��n|�$��$`b���2r�d�n��n� $`��s�p��l���H�H���Repeater V2.2.16 starting
+
+running rom 0
+Config found and loaded (3216 Bytes)
+Starting Console TCP Server on port 7777
+Starting Web Config Server on port 80
+mode : sta(e8:db:84:98:6b:83) + softAP(ea:db:84:98:6b:83)
+add if0
+add if1
+dhcp server start:(ip:192.168.4.1,mask:255.255.255.0,gw:192.168.4.1)
+bcn 100
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 13
+cnt 
+add 1
+aid 1
+station: 0e:61:00:a7:e8:b7 join, AID = 1
+station: 0e:61:00:a7:e8:b7 join, AID = 1
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 13
+cnt 
+Saving configuration
+Restarting ... 
+state: 5 -> 0 (0)
+rm 0
+vPortFree 515 line assert fail
+del if0
+station: 0e:61:00:a7:e8:b7 leave, AID = 1
+rm 1
+vPortFree 515 line assert fail
+bcn 0
+del if1
+usl
+
+ ets Jan  8 2013,rst cause:2, boot mode:(3,7)
+
+load 0x40100000, len 1328, room 16 
+tail 0
+chksum 0x12
+load 0x3ffe8000, len 604, room 8 
+tail 4
+chksum 0x34
+csum 0x34
+
+rBoot v1.4.2 - richardaburton@gmail.com
+Flash Size:   4 Mbit
+Flash Mode:   QIO
+Flash Speed:  40 MHz
+
+Booting rom 0.
+����N천p��o|�l��l #����|r�l�n��N� $`��s�p������H�H���Repeater V2.2.16 starting
+
+running rom 0
+Config found and loaded (3216 Bytes)
+Starting Console TCP Server on port 7777
+Starting Web Config Server on port 80
+mode : sta(e8:db:84:98:6b:83) + softAP(ea:db:84:98:6b:83)
+add if0
+add if1
+dhcp server start:(ip:192.168.4.1,mask:255.255.255.0,gw:192.168.4.1)
+bcn 100
+add 1
+aid 1
+station: 0e:61:00:a7:e8:b7 join, AID = 1
+station: 0e:61:00:a7:e8:b7 join, AID = 1
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 13
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 13
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 13
+cnt 
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 13
+cnt 
+station: 0e:61:00:a7:e8:b7 leave, AID = 1
+rm 1
+station: 0e:61:00:a7:e8:b7 leave, AID = 1
+state: 5 -> 2 (3c0)
+rm 0
+disconnect from ssid PITS-CPL-WIFI, reason 3
+reconnect
+state: 2 -> 0 (0)
+scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 13
+cnt 
